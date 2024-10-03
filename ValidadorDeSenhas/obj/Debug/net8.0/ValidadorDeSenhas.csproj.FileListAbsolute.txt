@@ -1,0 +1,11 @@
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\bin\Debug\net8.0\ValidadorDeSenhas.deps.json
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\bin\Debug\net8.0\ValidadorDeSenhas.dll
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\bin\Debug\net8.0\ValidadorDeSenhas.pdb
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.AssemblyInfoInputs.cache
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.AssemblyInfo.cs
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.dll
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\refint\ValidadorDeSenhas.dll
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ValidadorDeSenhas.pdb
+C:\Users\Websis\source\repos\ValidadorDeSenhas\ValidadorDeSenhas\obj\Debug\net8.0\ref\ValidadorDeSenhas.dll
